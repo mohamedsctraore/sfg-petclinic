@@ -13,6 +13,10 @@
 ### IntelliJ IDEA ###
 petclinic-data/target/
 petclinic-web/target/
+petclinic-data/pom.xml.releaseBackup
+petclinic-web/pom.xml.releaseBackup
+pom.xml.releaseBackup
+release.properties
 .idea
 *.iws
 *.iml
