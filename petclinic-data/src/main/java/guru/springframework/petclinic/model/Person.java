@@ -3,7 +3,7 @@ package guru.springframework.petclinic.model;
 /**
  * Created by mohamed on 12/9/18.
  */
-public class Person {
+public class Person extends BaseEntity {
     private String firstname;
     private String lastname;
 
