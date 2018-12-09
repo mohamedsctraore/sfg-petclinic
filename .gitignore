@@ -11,6 +11,8 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
+petclinic-data/target/
+petclinic-web/target/
 .idea
 *.iws
 *.iml
